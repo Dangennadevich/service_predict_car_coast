@@ -16,10 +16,12 @@ ohe.pickle - Обученный ohe
 
 ml_model_car_price.pickle - Ridge модель (прод)
 
+model_weight.pickle - Веса модели
 
-*df_fillna.csv - Датафрейм с значениями для заполнения пропусков
 
-*requirements.txt - версии пакетов
+df_fillna.csv - Датафрейм с значениями для заполнения пропусков
+
+requirements.txt - версии пакетов
 
 
 

@@ -3,13 +3,13 @@
 
 ## Описание файлов
 
-*EDA.IPYNB - Основная работа по домашему заданию - решение задач 1-4 часть - EDA, модели. Именно тут обучалась модель из "прода"
-*pred_coast_of_car.py - сервер на FastAPI по предсказанию стоимости авто
-*func.py - тут хранятся функции и списки, необходимые для реализации проекта
+EDA.IPYNB - Основная работа по домашему заданию - решение задач 1-4 часть - EDA, модели. Именно тут обучалась модель из "прода"
+pred_coast_of_car.py - сервер на FastAPI по предсказанию стоимости авто
+func.py - тут хранятся функции и списки, необходимые для реализации проекта
 
-*StandardScaler.pickle - Обученный StandardScaler
-*ohe.pickle - Обученный ohe
-*ml_model_car_price.pickle - Ridge модель (прод)
+StandardScaler.pickle - Обученный StandardScaler
+ohe.pickle - Обученный ohe
+ml_model_car_price.pickle - Ridge модель (прод)
 
 *df_fillna.csv - Датафрейм с значениями для заполнения пропусков
 *requirements.txt - версии пакетов
